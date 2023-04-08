@@ -1,0 +1,4 @@
+com\chen\handler\MyMetaObjectHandler.class
+com\chen\config\Knife4jConfig.class
+com\chen\config\MybatisPlusConfig.class
+com\chen\handler\MyExceptionHandler.class

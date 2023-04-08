@@ -1,0 +1,7 @@
+com\chen\system\config\Knife4jConfig.class
+com\chen\system\controller\SysRoleController.class
+com\chen\system\mapper\SysRoleMapper.class
+com\chen\system\service\impl\SysRoleServiceImpl.class
+com\chen\system\service\SysRoleService.class
+com\chen\system\config\MybatisPlusConfig.class
+com\chen\system\SystemApplication.class
